@@ -6,7 +6,6 @@ import os.path
 import itertools
 import matplotlib.pyplot as plt
 import tensorflow as tf
-
 from pathlib import Path
 from tensorflow import keras
 from keras import Model
