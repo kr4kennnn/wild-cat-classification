@@ -14,7 +14,7 @@ from keras.optimizers import Adam
 from keras.layers import Dense, Dropout
 from keras import layers, models, optimizers
 from keras.preprocessing.image import ImageDataGenerator
-
+#45190000030
 from sklearn.metrics import classification_report, confusion_matrix
 
 #define train test and validation folders
